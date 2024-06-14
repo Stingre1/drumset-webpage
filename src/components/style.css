@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana;
+    transition:all;
+    transition: 1s;
+    background-color: #0E0E10;
+	margin: 0;
+}
+
+.container {
+    margin: auto;
+    width: 100%; 
+    max-width: 1600px;
+    align-items: center;
+    justify-content: center;    
+}
